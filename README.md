@@ -6,3 +6,4 @@ Web-scrapes multiple sportsbooks via web driver and returns ordered arbitrage op
 2. `pip install bs4`
 3. `pip install operator`
 
+Since sportsbooks do not have official API's capable of obtaining this information, the program uses Beautiful Soup and the Chrome webdriver to 'manually' grab HTML.
