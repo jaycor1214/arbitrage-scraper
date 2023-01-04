@@ -1,0 +1,68 @@
+Scraping Fan Duel Data
+Teams matched
+Scraping Draft Kings Data
++100
+Pittsburgh Steelers @ -118 ON FD
+Cleveland Browns @ 100 ON DK
+results in: -18
+Cleveland Browns @ 100 ON DK
+Pittsburgh Steelers @ -118 ON FD
+results in: -18
+New Orleans Saints @ -105 ON DK
+Carolina Panthers @ -110 ON FD
+results in: -215
+Carolina Panthers @ -110 ON FD
+New Orleans Saints @ -105 ON DK
+results in: -215
+Miami Dolphins @ -105 ON FD
+New York Jets @ -110 ON DK
+results in: -215
+New York Jets @ -110 ON DK
+Miami Dolphins @ -105 ON FD
+results in: -215
+Jacksonville Jaguars @ -105 ON FD
+Tennessee Titans @ -110 ON DK
+results in: -215
+Tennessee Titans @ -110 ON DK
+Jacksonville Jaguars @ -105 ON FD
+results in: -215
+Las Vegas Raiders @ -105 ON FD
+Kansas City Chiefs @ -110 ON DK
+results in: -215
+Kansas City Chiefs @ -110 ON DK
+Las Vegas Raiders @ -105 ON FD
+results in: -215
+Philadelphia Eagles @ -108 ON FD
+New York Giants @ -110 ON DK
+results in: -218
+New York Giants @ -110 ON DK
+Philadelphia Eagles @ -108 ON FD
+results in: -218
+Washington Commanders @ -110 ON DK
+Dallas Cowboys @ -110 ON DK
+results in: -220
+Dallas Cowboys @ -110 ON DK
+Washington Commanders @ -110 ON DK
+results in: -220
+San Francisco 49ers @ -110 ON DK
+Arizona Cardinals @ -110 ON DK
+results in: -220
+Arizona Cardinals @ -110 ON DK
+San Francisco 49ers @ -110 ON DK
+results in: -220
+Chicago Bears @ -110 ON DK
+Minnesota Vikings @ -110 ON DK
+results in: -220
+Minnesota Vikings @ -110 ON DK
+Chicago Bears @ -110 ON DK
+results in: -220
+Atlanta Falcons @ -110 ON DK
+Tampa Bay Buccaneers @ -110 ON DK
+results in: -220
+Tampa Bay Buccaneers @ -110 ON DK
+Atlanta Falcons @ -110 ON DK
+results in: -220
+
+[Done] exited with code=0 in 32.364 seconds
+
+Ran on 1/3/23 at 5:14 PM
